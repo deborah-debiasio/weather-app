@@ -1,0 +1,10 @@
+
+
+node_modules
+vendor
+
+/ios/Pods
+build
+
+.gradle
+.idea
