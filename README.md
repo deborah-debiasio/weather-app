@@ -5,7 +5,7 @@
 
 <div align='center'>
     <img width="50%" src="app.gif"/>  
-</duv>   
+</div>   
 
 
 ## Weather Information Management
@@ -15,8 +15,6 @@ Users have the capability to manage a list of cities within the application, ena
 Clicking the button "Add city" users can add or remove city names. 
 
 All the temperatures are in Celsius.
-
-#
 
 ## Technical Information
 
